@@ -1,0 +1,5 @@
+twitchio
+python-dotenv
+openai
+gtts
+playsound
