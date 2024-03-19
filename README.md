@@ -4,7 +4,7 @@
 
 Welcome to **Stream Buddy AI**, your new favorite Twitch chat companion! Leveraging the latest in AI technology from OpenAI's GPT, Stream Buddy AI is here to revolutionize your stream's chat experience. Engage your viewers like never before, automate moderation, and create a unique, interactive streaming environment.
 
-![Stream Buddy AI](https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80 "Stream Buddy AI in Action")
+![Stream Buddy AI](https://raw.githubusercontent.com/Trevordesu/StreamBuddyAI/main/twitchbudyai.webp "Stream Buddy AI")
 
 ## 🌟 Features
 
