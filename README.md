@@ -25,7 +25,7 @@ Ensure you have Python 3.6+ installed on your machine. You'll also need Twitch a
 1. **Clone the repo**
 
 ```bash
-git clone [[https://github.com/yourusername/stream-buddy-ai.git](https://github.com/Trevordesu/StreamBuddyAI.git](https://github.com/Trevordesu/StreamBuddyAI.git)
+git clone https://github.com/Trevordesu/StreamBuddyAI.git
 ```
 
 2. **Navigate to the project directory**
